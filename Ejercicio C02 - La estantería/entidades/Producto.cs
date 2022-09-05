@@ -30,7 +30,7 @@ namespace entidades
         public static string MostrarProducto(Producto producto)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"MARCA: {producto.marca} - codigo De Barra:{(string)producto} - precio {producto.precio}");
+            sb.AppendLine($"Marca: {producto.marca} - codigo De Barra:{(string)producto} - precio {producto.precio}");
 
             return sb.ToString();
         }

@@ -35,11 +35,8 @@ namespace entidades
                 {
                     sb.AppendLine(Producto.MostrarProducto(item));
                     sb.AppendLine("----------------------");
-
                 }
             }
-
-
             return sb.ToString();
         }
 
