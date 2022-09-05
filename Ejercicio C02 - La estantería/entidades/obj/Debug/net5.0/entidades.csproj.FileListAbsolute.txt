@@ -1,0 +1,12 @@
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.csproj.AssemblyReference.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.AssemblyInfoInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.AssemblyInfo.cs
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.csproj.CoreCompileInputs.cache
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\bin\Debug\net5.0\entidades.deps.json
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\bin\Debug\net5.0\entidades.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\bin\Debug\net5.0\entidades.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\refint\entidades.dll
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\entidades.pdb
+D:\software\visual\2do intento\ejercios clases\Ejercicio\github\Ejercicio-C02---La-estanter-a\Ejercicio C02 - La estantería\entidades\obj\Debug\net5.0\ref\entidades.dll

@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería.csproj": {}
+  },
+  "projects": {
+    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería.csproj",
+        "projectName": "Ejercicio C02 - La estantería",
+        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\Ejercicio C02 - La estantería\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\entidades.csproj": {
+                "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\entidades.csproj",
+        "projectName": "entidades",
+        "projectPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\entidades.csproj",
+        "packagesPath": "C:\\Users\\facun\\.nuget\\packages\\",
+        "outputPath": "D:\\software\\visual\\2do intento\\ejercios clases\\Ejercicio\\github\\Ejercicio-C02---La-estanter-a\\Ejercicio C02 - La estantería\\entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\facun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
