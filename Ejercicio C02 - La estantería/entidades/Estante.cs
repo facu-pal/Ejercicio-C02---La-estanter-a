@@ -31,7 +31,7 @@ namespace entidades
 
             foreach (Producto item in estante.productos)
             {
-                if (!Object.ReferenceEquals(item, null))
+                if (!ReferenceEquals(item, null))
                 {
                     sb.AppendLine(Producto.MostrarProducto(item));
                     sb.AppendLine("----------------------");
